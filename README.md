@@ -93,16 +93,12 @@ npm run preview   # preview del build
 ```
 
 ---
-
-## 🧭 Roadmap (próximos pasos)
+<!-- ## 🧭 Roadmap (próximos pasos)
 - [ ] Manejo de loading/errores con componentes reutilizables
 - [ ] React Query (caché, revalidación, estados automáticos)
 - [ ] React Router (rutas y vistas separadas)
 - [ ] Estilos (UI/UX): toasts, modales, componentes
-- [ ] Tests de UI con Vitest + Testing Library
-
-## 🖼️ Capturas
-*(Agregá aquí screenshots o GIFs del flujo principal para mejorar el portfolio)*
+- [ ] Tests de UI con Vitest + Testing Library -->
 
 ## 📜 Licencia
 MIT
